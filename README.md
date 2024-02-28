@@ -13,6 +13,8 @@ Whether you're craving a hearty brunch, a cozy dinner for two, or simply seeking
 
 So, join us on this digital adventure, where every click, swipe, and scroll brings you closer to the extraordinary flavors that define the essence of Little Lemon. Welcome aboard, and let the culinary adventure begin!!
 
+pls, make sure to set up your own venv. You can use [custom command](https://github.com/DafetiteOgaga/custom_commands)
+
 
 ### Littlelemon-Restaurant and README were auto created
 
